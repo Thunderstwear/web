@@ -36,7 +36,7 @@ header {
 }
 
 .shirt {
-  display: flex;nnnnnnn
+  display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
@@ -188,8 +188,8 @@ footer {
 
 /*BOTON INSTAGRAM*/
 .Btn {
-  width: 45px;
-  height: 45px;
+  width: 35px;
+  height: 35px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -240,3 +240,4 @@ footer {
 .Btn:hover .svgContainer {
   background-color: rgba(156, 156, 156, 0.466);
 }
+
